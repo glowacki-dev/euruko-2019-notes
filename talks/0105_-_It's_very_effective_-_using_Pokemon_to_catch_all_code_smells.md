@@ -45,4 +45,3 @@ Let’s think why does drawing characters may help us remember and understand co
 ![0105-explaining](media/0105-explaining.jpg)
 
 We should try to use drawings to explain complex topics. It’s easier to remember and may be understood better.
-
