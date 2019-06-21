@@ -4,7 +4,7 @@
 
 | Speaker                                                      | Title                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Yukihiro Matsumoto [@yukihiro_matz](https://twitter.com/yukihiro_matz) | **[Keynote: Functional (Future) Ruby](talks/0101_-_Keynote_-_Functional_(Future)_Ruby.md)** |
+| Yukihiro Matsumoto [@yukihiro_matz](https://twitter.com/yukihiro_matz) | 👉 **[Keynote: Functional (Future) Ruby](talks/0101_-_Keynote_-_Functional_(Future)_Ruby.md)** |
 | Kaja Santro [@AlizeNero](https://twitter.com/AlizeNero)      | **[From multiple apps to Monolith - #BuildingMonsterservices](talks/0102_-_From_multiple_apps_to_Monolith_-_BuildingMonsterservices.md)** |
 | Damir Svrtan [@DamirSvrtan](https://twitter.com/DamirSvrtan) | **[Surrounded by Microservices](talks/0103_-_Surrounded_by_Microservices.md)** |
 | Hongli Lai [@honglilai](https://twitter.com/honglilai)       | **[What causes Ruby memory bloat?](talks/0104_-_What_causes_Ruby_memory_bloat.md)** |
