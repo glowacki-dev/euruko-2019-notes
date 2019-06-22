@@ -22,7 +22,7 @@
 | Yusuke Endoh [@mametter](https://twitter.com/mametter)       | 👉 **[A Plan towards Ruby 3 Types](talks/0203_-_A_Plan_towards_Ruby_3_Types.md)** |
 | ---                                                          | Lightning Talks                                              |
 | Jan Krutisch [@halfbyte](https://twitter.com/halfbyte)       | 👉 **[The musical Ruby](talks/0204_-_The_musical_Ruby.md)**   |
-| Aaron Cruz [@mraaroncruz](https://twitter.com/mraaroncruz)   | **[Steal this talk](talks/0205_-_Steal_this_talk.md)**       |
+| Aaron Cruz [@mraaroncruz](https://twitter.com/mraaroncruz)   | 👉 **[Steal this talk](talks/0205_-_Steal_this_talk.md)**     |
 | Richard Schneeman [@schneems](https://twitter.com/schneems)  | **[The Life-Changing Magic of Tidying Active Record Allocations](talks/0206_-_The_Life-Changing_Magic_of_Tidying_Active_Record_Allocations.md)** |
 | Eileen M. Uchitelle [@eileencodes](https://twitter.com/eileencodes) | **[Closing keynote: The Past, Present, and Future of Rails at GitHub](talks/0207_-_Closing_keynote_-_The_Past_Present_and_Future_of_Rails_at_GitHub.md)** |
 
