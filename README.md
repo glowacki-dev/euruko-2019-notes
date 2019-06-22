@@ -17,7 +17,7 @@
 
 | Speaker                                                      | Title                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Charity Majors [@mipsytipsy](https://twitter.com/mipsytipsy) | **[Keynote: Yes, I Test In Production... And So Should You](talks/0201_-_Keynote_-_Yes_I_Test_in_Production_And_So_Should_You.md)** |
+| Charity Majors [@mipsytipsy](https://twitter.com/mipsytipsy) | 👉 **[Keynote: Yes, I Test In Production... And So Should You](talks/0201_-_Keynote_-_Yes_I_Test_in_Production_And_So_Should_You.md)** |
 | Bilawal Hameed [@bilawalhameed](https://twitter.com/bilawalhameed) | **[How We’re Making Tech Documentation Better, Easier, And Less Boring](talks/0202_-_How_We're_Making_Tech_Documentation_Better_Easier_And_Less_Boring.md)** |
 | Yusuke Endoh [@mametter](https://twitter.com/mametter)       | **[A Plan towards Ruby 3 Types](talks/0203_-_A_Plan_towards_Ruby_3_Types.md)** |
 | ---                                                          | Lightning Talks                                              |
